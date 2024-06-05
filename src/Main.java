@@ -9,7 +9,7 @@ public class Main {
         for (int i = 1; i <= 10; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("result for i = " + i);
+            System.out.println("result nnnn for i = " + i);
             System.out.println("commit 1");
             System.out.println("commit 2");
         }
