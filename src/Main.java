@@ -11,6 +11,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("result for i = " + i);
             System.out.println("commit 1");
+            System.out.println("commit 2");
         }
     }
 }
